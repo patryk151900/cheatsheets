@@ -1,6 +1,7 @@
 mkdir -p a/b/c
 rmdir -p a/b/c
 
+rmdir
 cd
 cd -
 cd ~user_dir
