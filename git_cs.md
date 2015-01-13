@@ -66,6 +66,8 @@ git revert <commit>
 git revert HEAD   -revert last change
 
 
+dupa
+
 
 
 
