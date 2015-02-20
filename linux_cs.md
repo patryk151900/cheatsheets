@@ -71,6 +71,9 @@ unzip arch.zip
 
 who
 whoami
+uname
+uname -r
+cat /boot/config-`uname -r`
 id account
 su -- account
 su -- account -s /bin/bash
